@@ -13,7 +13,7 @@ categories = []
 regex = "1.4"
 url = "2.2"
 html5ever = "0.25"
-markup5ever_rcdom = "0.1"
+markup5ever_rcdom = "0.2"
 lazy_static = "1.4"
 
 [dependencies.reqwest]
